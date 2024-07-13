@@ -6,3 +6,4 @@ This version presents 2 ways (Using setter and using constructor) to achieve inj
 2- Using Annotation(Component or Autowired)
 
 
+Spring is not a newest technologie like one thinks. Spring was there even before java 1.8.
